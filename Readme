@@ -1,0 +1,2 @@
+Run this in the command line:
+./mvnw spring-boot:run
